@@ -1,9 +1,12 @@
 h1 {
-color: Blue;
+color: DarkBlue;
 font-size: 36px;
 }
-p {font-size: 18px;
+p {
+color: Firebrick;
+font-size: 18px;
 }
-* {
-font-family: Georgia
+li {
+color: DarkGreen;
+font-size: 15px;
 }
