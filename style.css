@@ -1,10 +1,9 @@
-h1{
-  color: Blue;
-  font-size: 36px;
-  font-family: Georgia
+h1 {
+color: Blue;
+font-size: 36px;
 }
-p{
-  color: Black
-  font-size: 18px;
-  font-family: Arial;
+p {font-size: 18px;
+}
+* {
+font-family: Georgia
 }
